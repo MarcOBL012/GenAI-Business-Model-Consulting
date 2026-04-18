@@ -2,9 +2,6 @@
 
 An AI-based business assistant and consultant that runs **100% locally and portably**. This project uses a RAG (Retrieval-Augmented Generation) system to analyze PDF documents and help users model their businesses, including the automatic generation of diagrams (mindmaps and Canvas) using Mermaid code.
 
-This project was developed by **Marco Obispo - UNI - Sistemas Analiticos**.
-
-
 
 ## 🌟 Main Features
 
@@ -74,4 +71,4 @@ Note: The first time you run the application, it will take a few extra minutes w
 ## 📬 Contact
 If you use or extend this project, please add a note in the README or contact:
 
-Marco Obispo — marco.obispo.l@uni.pe
+**Marco Obispo** — marco.obispo.l@uni.pe - Universidad Nacional de Ingeniería (UNI)
