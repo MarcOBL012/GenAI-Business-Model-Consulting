@@ -32,7 +32,7 @@ Make sure you have Python installed on your system.
 
 **1. Clone the repository and navigate to the project folder:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/MarcOBL012/GenAI-Business-Model-Consulting.git
 cd genai-business-model-consulting
 ```
 **2. Install dependencies:**
